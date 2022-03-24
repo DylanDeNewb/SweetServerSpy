@@ -1,0 +1,4 @@
+name: SweetServerSpy
+version: '${project.version}'
+main: fun.sweetsmp.sweetserverspy.SweetServerSpy
+
